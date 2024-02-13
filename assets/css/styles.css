@@ -225,7 +225,7 @@ img {
 
 .home__img {
   position: absolute;
-  right: 0;
+  right: 20;
   bottom: 0;
   width: 260px;
 }
@@ -235,7 +235,7 @@ img {
 }
 
 .home__blob-img {
-  width: 360px;
+  width: 260px;
 }
 
 /*BUTTONS*/
