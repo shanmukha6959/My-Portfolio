@@ -212,13 +212,13 @@ img{
         position: absolute;
         right: 0;
         bottom: 0;
-        width: 260px;
+        width: 360px;
     }
     &__blob{
         fill: var(--first-color);
 
         &-img{
-            width: 360px;
+            width: 260px;
         }
     }
 }
